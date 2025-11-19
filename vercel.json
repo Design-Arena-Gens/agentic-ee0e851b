@@ -1,0 +1,7 @@
+{
+  "name": "agentic-ee0e851b",
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "git": { "deployOnPush": false }
+}
